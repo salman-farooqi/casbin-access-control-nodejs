@@ -1,0 +1,6 @@
+p, admin, /content, GET
+p, editor, /content, GET
+p, viewer, /content, GET
+g, alice, admin
+g, bob, editor
+g, charlie, viewer
